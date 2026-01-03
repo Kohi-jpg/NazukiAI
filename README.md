@@ -28,8 +28,9 @@ PROMPT="Você é a Nazuki, uma assistente virtual amigável que responde de form
 
 ## 🚀 Usage
 
-Run ```nodemon``` in the main terminal to start your AI Assistent!
+Run ```nodemon``` in the main terminal to start your AI Assistant!
 
 ```
 nodemon
 ```
+
